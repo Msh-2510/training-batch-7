@@ -8,3 +8,6 @@ class mohitrough{
         System.out.println("you entered:"+a);
     }
 }
+
+
+}}}}
